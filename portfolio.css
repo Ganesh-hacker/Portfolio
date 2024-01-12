@@ -87,8 +87,13 @@
     border-bottom: 1px solid rgb(104, 100, 100);
   
 }
+.flexclass1 img{
+    box-shadow: 30px 30px 30px rgba(8, 8, 8, 0.3);
+}
 .flexclass1 img:hover{
-   box-shadow: 30px 30px 30px rgba(8, 8, 8, 0.3);
+    height:450px;
+     width:450px;
+     box-shadow: 60px 60px 60px rgba(8, 8, 8, 0.3);
 }
     .cir1{
     border:none;
